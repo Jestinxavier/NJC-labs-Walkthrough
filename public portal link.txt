@@ -1,0 +1,9 @@
+
+**************
+https://anypoint.mulesoft.com/exchange/portals/njclabscom-6/
+..............................
+
+Client ID:
+c6a40ac419b24c0093b2159301791438
+Client Secret:
+Be381a019a18447490B16dA6acE55a6b
